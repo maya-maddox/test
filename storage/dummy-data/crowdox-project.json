@@ -1,0 +1,104 @@
+{
+    "data": {
+        "id": "107029",
+        "type": "projects",
+        "attributes": {
+            "name": "Swytch, the world's smallest & lightest eBike kit",
+            "purpose": "pledge_management",
+            "slug": "106169/swytch-the-world-s-smallest-lightest-ebike-kit",
+            "identifier": "swytch-the-world-s-smallest-lightest-ebi",
+            "theme": {
+                "name": "Swytch Order Confirmation Survey",
+                "logo_image_path": "p/107029/project-logos/fb9fb2660ee879317daf6620ecec1e74f9a3877b.png",
+                "header_text_color": "#C7C6E2",
+                "branding_border_color": "#F6F2ED",
+                "hero_background_color": "#10024C",
+                "navigation_text_color": "#FFFFFF",
+                "extras_message_replace": true,
+                "hero_background_offset": 389,
+                "branding_background_color": "#421B07",
+                "navigation_text_inactive_color": "#090A0A",
+                "navigation_active_background_color": "#1FB1AF",
+                "navigation_inactive_background_color": "#BCC1C5",
+                "navigation_previous_background_color": "#05A72C"
+            },
+            "urls": {
+                "homepage_url": "https://www.swytchbike.com"
+            },
+            "image-path": "p/107029/projects/5188bcbf89174179d1f3a859f5f8ef28fec4ce1f.jpg",
+            "support": {
+                "email": "support@swytchbike.com",
+                "from": "swytch-the-world-s-smallest-lightest-ebi@support.crowdox.com"
+            },
+            "currency": "USD",
+            "currency-symbol": "$",
+            "export-type": "swytch",
+            "settings": {
+                "support_days": 0,
+                "wizard": {
+                    "skip_theme": false,
+                    "completed_on": "2019-11-07T16:29:12.543Z",
+                    "skip_preorder": true,
+                    "reviewed_email": false,
+                    "skip_questions": false,
+                    "reviewed_shipping": true,
+                    "skip_local_pickup": true,
+                    "last_completed_step": "settings",
+                    "reviewed_project_settings": false
+                },
+                "feature_flags": [
+                    "phone-number-required-always",
+                    "product-reward-description",
+                    "show-support-email",
+                    "disable-survey-unlock",
+                    "show-all-translations"
+                ]
+            },
+            "launched-at": "2019-11-19T14:08:23.213Z",
+            "unit-of-mass": "kg",
+            "unit-of-length": "cm",
+            "shipping-type": "product_price",
+            "address-name-type": "single_name",
+            "category-name": "Technology",
+            "child-category-name": "Gadget",
+            "features": [],
+            "fulfillment-status": null,
+            "fulfillment-status-updated-by": "crowdox",
+            "locales": [
+                "en-us"
+            ]
+        },
+        "relationships": {
+            "company": {
+                "data": {
+                    "type": "companies",
+                    "id": "106169"
+                }
+            },
+            "stats": {
+                "data": {
+                    "type": "project-stats",
+                    "id": "107029"
+                }
+            },
+            "order-stats": {
+                "data": {
+                    "type": "project-order-stats",
+                    "id": "107029"
+                }
+            },
+            "country": {
+                "data": {
+                    "type": "countries",
+                    "id": "3"
+                }
+            },
+            "currency-country": {
+                "data": {
+                    "type": "countries",
+                    "id": "17"
+                }
+            }
+        }
+    }
+}

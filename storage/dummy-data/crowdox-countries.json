@@ -1,0 +1,4511 @@
+{
+    "data": [
+        {
+            "id": "8",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Afghanistan",
+                "iso3": "AFG",
+                "iso2": "AF",
+                "currency-code": "AFN",
+                "currency-symbol": "؋",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "11",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Åland Islands",
+                "iso3": "ALA",
+                "iso2": "AX",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^22\\d{3}$"
+            }
+        },
+        {
+            "id": "12",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Albania",
+                "iso3": "ALB",
+                "iso2": "AL",
+                "currency-code": "ALL",
+                "currency-symbol": "L",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "68",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Algeria",
+                "iso3": "DZA",
+                "iso2": "DZ",
+                "currency-code": "DZD",
+                "currency-symbol": "د.ج",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "17",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "American Samoa",
+                "iso3": "ASM",
+                "iso2": "AS",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^96799$"
+            }
+        },
+        {
+            "id": "13",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Andorra",
+                "iso3": "AND",
+                "iso2": "AD",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^AD\\d{3}$"
+            }
+        },
+        {
+            "id": "9",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Angola",
+                "iso3": "AGO",
+                "iso2": "AO",
+                "currency-code": "AOA",
+                "currency-symbol": "Kz",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "10",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Anguilla",
+                "iso3": "AIA",
+                "iso2": "AI",
+                "currency-code": "XCD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "18",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Antarctica",
+                "iso3": "ATA",
+                "iso2": "AQ",
+                "currency-code": null,
+                "currency-symbol": null,
+                "continent": "Antarctica",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "20",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Antigua and Barbuda",
+                "iso3": "ATG",
+                "iso2": "AG",
+                "currency-code": "XCD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "15",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Argentina",
+                "iso3": "ARG",
+                "iso2": "AR",
+                "currency-code": "ARS",
+                "currency-symbol": "$",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^([A-HJ-NP-Z])?\\d{4}([A-Z]{3})?$"
+            }
+        },
+        {
+            "id": "16",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Armenia",
+                "iso3": "ARM",
+                "iso2": "AM",
+                "currency-code": "AMD",
+                "currency-symbol": null,
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^(37)?\\d{4}$"
+            }
+        },
+        {
+            "id": "7",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Aruba",
+                "iso3": "ABW",
+                "iso2": "AW",
+                "currency-code": "AWG",
+                "currency-symbol": "ƒ",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "21",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Austria",
+                "iso3": "AUT",
+                "iso2": "AT",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "22",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Azerbaijan",
+                "iso3": "AZE",
+                "iso2": "AZ",
+                "currency-code": "AZN",
+                "currency-symbol": null,
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "30",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bahamas",
+                "iso3": "BHS",
+                "iso2": "BS",
+                "currency-code": "BSD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "29",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bahrain",
+                "iso3": "BHR",
+                "iso2": "BH",
+                "currency-code": "BHD",
+                "currency-symbol": ".د.ب",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^((1[0-2]|[2-9])\\d{2})?$"
+            }
+        },
+        {
+            "id": "27",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bangladesh",
+                "iso3": "BGD",
+                "iso2": "BD",
+                "currency-code": "BDT",
+                "currency-symbol": "৳",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "38",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Barbados",
+                "iso3": "BRB",
+                "iso2": "BB",
+                "currency-code": "BBD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": "^(BB\\d{5})?$"
+            }
+        },
+        {
+            "id": "33",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Belarus",
+                "iso3": "BLR",
+                "iso2": "BY",
+                "currency-code": "BYR",
+                "currency-symbol": "Br",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "24",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Belgium",
+                "iso3": "BEL",
+                "iso2": "BE",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "34",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Belize",
+                "iso3": "BLZ",
+                "iso2": "BZ",
+                "currency-code": "BZD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "25",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Benin",
+                "iso3": "BEN",
+                "iso2": "BJ",
+                "currency-code": "XOF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "35",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bermuda",
+                "iso3": "BMU",
+                "iso2": "BM",
+                "currency-code": "BMD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^[A-Z]{2}[ ]?[A-Z0-9]{2}$"
+            }
+        },
+        {
+            "id": "40",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bhutan",
+                "iso3": "BTN",
+                "iso2": "BT",
+                "currency-code": "INR",
+                "currency-symbol": "₹",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "36",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bolivia",
+                "iso3": "BOL",
+                "iso2": "BO",
+                "currency-code": "BOB",
+                "currency-symbol": "Bs.",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "31",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bosnia and Herzegovina",
+                "iso3": "BIH",
+                "iso2": "BA",
+                "currency-code": "BAM",
+                "currency-symbol": "KM",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "42",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Botswana",
+                "iso3": "BWA",
+                "iso2": "BW",
+                "currency-code": "BWP",
+                "currency-symbol": "P",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "41",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bouvet Island",
+                "iso3": "BVT",
+                "iso2": "BV",
+                "currency-code": "NOK",
+                "currency-symbol": "kr",
+                "continent": "Antarctica",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "37",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Brazil",
+                "iso3": "BRA",
+                "iso2": "BR",
+                "currency-code": "BRL",
+                "currency-symbol": "R$",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}[\\-]?\\d{3}$"
+            }
+        },
+        {
+            "id": "107",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "British Indian Ocean Territory",
+                "iso3": "IOT",
+                "iso2": "IO",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^BBND 1ZZ$"
+            }
+        },
+        {
+            "id": "39",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Brunei Darussalam",
+                "iso3": "BRN",
+                "iso2": "BN",
+                "currency-code": "BND",
+                "currency-symbol": "$",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^[A-Z]{2}[ ]?\\d{4}$"
+            }
+        },
+        {
+            "id": "28",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Bulgaria",
+                "iso3": "BGR",
+                "iso2": "BG",
+                "currency-code": "BGN",
+                "currency-symbol": "лв",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "26",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Burkina Faso",
+                "iso3": "BFA",
+                "iso2": "BF",
+                "currency-code": "XOF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "23",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Burundi",
+                "iso3": "BDI",
+                "iso2": "BI",
+                "currency-code": "BIF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "121",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Cambodia",
+                "iso3": "KHM",
+                "iso2": "KH",
+                "currency-code": "KHR",
+                "currency-symbol": "៛",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "50",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Cameroon",
+                "iso3": "CMR",
+                "iso2": "CM",
+                "currency-code": "XAF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "56",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Cape Verde",
+                "iso3": "CPV",
+                "iso2": "CV",
+                "currency-code": "CVE",
+                "currency-symbol": "$",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "43",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Caribbean Netherlands",
+                "iso3": "BES",
+                "iso2": "BQ",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "61",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Cayman Islands",
+                "iso3": "CYM",
+                "iso2": "KY",
+                "currency-code": "KYD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "44",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Central African Republic",
+                "iso3": "CAF",
+                "iso2": "CF",
+                "currency-code": "XAF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "218",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Chad",
+                "iso3": "TCD",
+                "iso2": "TD",
+                "currency-code": "XAF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "47",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Chile",
+                "iso3": "CHL",
+                "iso2": "CL",
+                "currency-code": "CLP",
+                "currency-symbol": "$",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{7}$"
+            }
+        },
+        {
+            "id": "48",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "China",
+                "iso3": "CHN",
+                "iso2": "CN",
+                "currency-code": "CNY",
+                "currency-symbol": "¥",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "60",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Christmas Island",
+                "iso3": "CXR",
+                "iso2": "CX",
+                "currency-code": "AUD",
+                "currency-symbol": "$",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^6798$"
+            }
+        },
+        {
+            "id": "45",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Cocos Islands",
+                "iso3": "CCK",
+                "iso2": "CC",
+                "currency-code": "AUD",
+                "currency-symbol": "$",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^6799$"
+            }
+        },
+        {
+            "id": "54",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Colombia",
+                "iso3": "COL",
+                "iso2": "CO",
+                "currency-code": "COP",
+                "currency-symbol": "$",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "55",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Comoros",
+                "iso3": "COM",
+                "iso2": "KM",
+                "currency-code": "KMF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "52",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Congo",
+                "iso3": "COG",
+                "iso2": "CG",
+                "currency-code": "XAF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "51",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Congo, The Democratic Republic of the",
+                "iso3": "COD",
+                "iso2": "CD",
+                "currency-code": null,
+                "currency-symbol": null,
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "53",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Cook Islands",
+                "iso3": "COK",
+                "iso2": "CK",
+                "currency-code": "NZD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "57",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Costa Rica",
+                "iso3": "CRI",
+                "iso2": "CR",
+                "currency-code": "CRC",
+                "currency-symbol": "₡",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4,5}|\\d{3}-\\d{4}$"
+            }
+        },
+        {
+            "id": "49",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Côte d'Ivoire",
+                "iso3": "CIV",
+                "iso2": "CI",
+                "currency-code": "XOF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "101",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Croatia",
+                "iso3": "HRV",
+                "iso2": "HR",
+                "currency-code": "HRK",
+                "currency-symbol": "kn",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "58",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Cuba",
+                "iso3": "CUB",
+                "iso2": "CU",
+                "currency-code": "CUP",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "59",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Curaçao",
+                "iso3": "CUW",
+                "iso2": "CW",
+                "currency-code": "ANG",
+                "currency-symbol": "ƒ",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "62",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Cyprus",
+                "iso3": "CYP",
+                "iso2": "CY",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "63",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Czech Republic",
+                "iso3": "CZE",
+                "iso2": "CZ",
+                "currency-code": "CZK",
+                "currency-symbol": "Kč",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}[ ]?\\d{2}$"
+            }
+        },
+        {
+            "id": "66",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Denmark",
+                "iso3": "DNK",
+                "iso2": "DK",
+                "currency-code": "DKK",
+                "currency-symbol": "kr",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "64",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Djibouti",
+                "iso3": "DJI",
+                "iso2": "DJ",
+                "currency-code": "DJF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "65",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Dominica",
+                "iso3": "DMA",
+                "iso2": "DM",
+                "currency-code": "XCD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "67",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Dominican Republic",
+                "iso3": "DOM",
+                "iso2": "DO",
+                "currency-code": "DOP",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "69",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Ecuador",
+                "iso3": "ECU",
+                "iso2": "EC",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^([A-Z]\\d{4}[A-Z]|(?:[A-Z]{2})?\\d{6})?$"
+            }
+        },
+        {
+            "id": "70",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Egypt",
+                "iso3": "EGY",
+                "iso2": "EG",
+                "currency-code": "EGP",
+                "currency-symbol": "£",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "204",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "El Salvador",
+                "iso3": "SLV",
+                "iso2": "SV",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "90",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Equatorial Guinea",
+                "iso3": "GNQ",
+                "iso2": "GQ",
+                "currency-code": "XAF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "71",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Eritrea",
+                "iso3": "ERI",
+                "iso2": "ER",
+                "currency-code": "ERN",
+                "currency-symbol": "Nfk",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "74",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Estonia",
+                "iso3": "EST",
+                "iso2": "EE",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "75",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Ethiopia",
+                "iso3": "ETH",
+                "iso2": "ET",
+                "currency-code": "ETB",
+                "currency-symbol": "Br",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "78",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Falkland Islands",
+                "iso3": "FLK",
+                "iso2": "FK",
+                "currency-code": "FKP",
+                "currency-symbol": "£",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^FIQQ 1ZZ$"
+            }
+        },
+        {
+            "id": "79",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Faroe Islands",
+                "iso3": "FRO",
+                "iso2": "FO",
+                "currency-code": "DKK",
+                "currency-symbol": "kr",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{3}$"
+            }
+        },
+        {
+            "id": "77",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Fiji",
+                "iso3": "FJI",
+                "iso2": "FJ",
+                "currency-code": "FJD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "76",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Finland",
+                "iso3": "FIN",
+                "iso2": "FI",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "95",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "French Guiana",
+                "iso3": "GUF",
+                "iso2": "GF",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^9[78]3\\d{2}$"
+            }
+        },
+        {
+            "id": "187",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "French Polynesia",
+                "iso3": "PYF",
+                "iso2": "PF",
+                "currency-code": "XPF",
+                "currency-symbol": "Fr",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^987\\d{2}$"
+            }
+        },
+        {
+            "id": "19",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "French Southern Territories",
+                "iso3": "ATF",
+                "iso2": "TF",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Antarctica",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "81",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Gabon",
+                "iso3": "GAB",
+                "iso2": "GA",
+                "currency-code": "XAF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "88",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Gambia",
+                "iso3": "GMB",
+                "iso2": "GM",
+                "currency-code": "GMD",
+                "currency-symbol": "D",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "82",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Georgia",
+                "iso3": "GEO",
+                "iso2": "GE",
+                "currency-code": "GEL",
+                "currency-symbol": "ლ",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "84",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Ghana",
+                "iso3": "GHA",
+                "iso2": "GH",
+                "currency-code": "GHS",
+                "currency-symbol": "₵",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "85",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Gibraltar",
+                "iso3": "GIB",
+                "iso2": "GI",
+                "currency-code": "GIP",
+                "currency-symbol": "£",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "91",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Greece",
+                "iso3": "GRC",
+                "iso2": "GR",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}[ ]?\\d{2}$"
+            }
+        },
+        {
+            "id": "93",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Greenland",
+                "iso3": "GRL",
+                "iso2": "GL",
+                "currency-code": "DKK",
+                "currency-symbol": "kr",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^39\\d{2}$"
+            }
+        },
+        {
+            "id": "92",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Grenada",
+                "iso3": "GRD",
+                "iso2": "GD",
+                "currency-code": "XCD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "87",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Guadeloupe",
+                "iso3": "GLP",
+                "iso2": "GP",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^9[78][01]\\d{2}$"
+            }
+        },
+        {
+            "id": "96",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Guam",
+                "iso3": "GUM",
+                "iso2": "GU",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^969[123]\\d([ \\-]\\d{4})?$"
+            }
+        },
+        {
+            "id": "94",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Guatemala",
+                "iso3": "GTM",
+                "iso2": "GT",
+                "currency-code": "GTQ",
+                "currency-symbol": "Q",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "83",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Guernsey",
+                "iso3": "GGY",
+                "iso2": "GG",
+                "currency-code": "GBP",
+                "currency-symbol": "£",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^GY\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}$"
+            }
+        },
+        {
+            "id": "86",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Guinea",
+                "iso3": "GIN",
+                "iso2": "GN",
+                "currency-code": "GNF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{3}$"
+            }
+        },
+        {
+            "id": "89",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Guinea-Bissau",
+                "iso3": "GNB",
+                "iso2": "GW",
+                "currency-code": "XOF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "97",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Guyana",
+                "iso3": "GUY",
+                "iso2": "GY",
+                "currency-code": "GYD",
+                "currency-symbol": "$",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "102",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Haiti",
+                "iso3": "HTI",
+                "iso2": "HT",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "99",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Heard Island and McDonald Islands",
+                "iso3": "HMD",
+                "iso2": "HM",
+                "currency-code": "AUD",
+                "currency-symbol": "$",
+                "continent": "Antarctica",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "237",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Holy See (Vatican City State)",
+                "iso3": "VAT",
+                "iso2": "VA",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^00120$"
+            }
+        },
+        {
+            "id": "100",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Honduras",
+                "iso3": "HND",
+                "iso2": "HN",
+                "currency-code": "HNL",
+                "currency-symbol": "L",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^(?:\\d{5})?$"
+            }
+        },
+        {
+            "id": "98",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Hong Kong",
+                "iso3": "HKG",
+                "iso2": "HK",
+                "currency-code": "HKD",
+                "currency-symbol": "$",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "103",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Hungary",
+                "iso3": "HUN",
+                "iso2": "HU",
+                "currency-code": "HUF",
+                "currency-symbol": "Ft",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "111",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Iceland",
+                "iso3": "ISL",
+                "iso2": "IS",
+                "currency-code": "ISK",
+                "currency-symbol": "kr",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}$"
+            }
+        },
+        {
+            "id": "106",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "India",
+                "iso3": "IND",
+                "iso2": "IN",
+                "currency-code": "INR",
+                "currency-symbol": "₹",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "104",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Indonesia",
+                "iso3": "IDN",
+                "iso2": "ID",
+                "currency-code": "IDR",
+                "currency-symbol": "Rp",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "109",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Iran, Islamic Republic of",
+                "iso3": "IRN",
+                "iso2": "IR",
+                "currency-code": "IRR",
+                "currency-symbol": "﷼",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "110",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Iraq",
+                "iso3": "IRQ",
+                "iso2": "IQ",
+                "currency-code": "IQD",
+                "currency-symbol": "ع.د",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "108",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Ireland",
+                "iso3": "IRL",
+                "iso2": "IE",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "105",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Isle of Man",
+                "iso3": "IMN",
+                "iso2": "IM",
+                "currency-code": "GBP",
+                "currency-symbol": "£",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^IM\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}$"
+            }
+        },
+        {
+            "id": "112",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Israel",
+                "iso3": "ISR",
+                "iso2": "IL",
+                "currency-code": "ILS",
+                "currency-symbol": "₪",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{7}$"
+            }
+        },
+        {
+            "id": "113",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Italy",
+                "iso3": "ITA",
+                "iso2": "IT",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "114",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Jamaica",
+                "iso3": "JAM",
+                "iso2": "JM",
+                "currency-code": "JMD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "117",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Japan",
+                "iso3": "JPN",
+                "iso2": "JP",
+                "currency-code": "JPY",
+                "currency-symbol": "¥",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}-\\d{4}$"
+            }
+        },
+        {
+            "id": "115",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Jersey",
+                "iso3": "JEY",
+                "iso2": "JE",
+                "currency-code": "GBP",
+                "currency-symbol": "£",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^JE\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}$"
+            }
+        },
+        {
+            "id": "116",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Jordan",
+                "iso3": "JOR",
+                "iso2": "JO",
+                "currency-code": "JOD",
+                "currency-symbol": "د.ا",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "118",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Kazakhstan",
+                "iso3": "KAZ",
+                "iso2": "KZ",
+                "currency-code": "KZT",
+                "currency-symbol": null,
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "119",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Kenya",
+                "iso3": "KEN",
+                "iso2": "KE",
+                "currency-code": "KES",
+                "currency-symbol": "Sh",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "122",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Kiribati",
+                "iso3": "KIR",
+                "iso2": "KI",
+                "currency-code": "AUD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "183",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Korea, Democratic People's Republic of",
+                "iso3": "PRK",
+                "iso2": "KP",
+                "currency-code": "KPW",
+                "currency-symbol": "₩",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "124",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Korea, Republic of",
+                "iso3": "KOR",
+                "iso2": "KR",
+                "currency-code": "KRW",
+                "currency-symbol": "₩",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "250",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Kosovo",
+                "iso3": "XKX",
+                "iso2": "XK",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "125",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Kuwait",
+                "iso3": "KWT",
+                "iso2": "KW",
+                "currency-code": "KWD",
+                "currency-symbol": "د.ك",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "120",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Kyrgyzstan",
+                "iso3": "KGZ",
+                "iso2": "KG",
+                "currency-code": "KGS",
+                "currency-symbol": "лв",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "126",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Lao, People's Democratic Republic",
+                "iso3": "LAO",
+                "iso2": "LA",
+                "currency-code": "LAK",
+                "currency-symbol": "₭",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "136",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Latvia",
+                "iso3": "LVA",
+                "iso2": "LV",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^(LV-)?\\d{4}$"
+            }
+        },
+        {
+            "id": "127",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Lebanon",
+                "iso3": "LBN",
+                "iso2": "LB",
+                "currency-code": "LBP",
+                "currency-symbol": "ل.ل",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^(\\d{4}([ ]?\\d{4})?)?$"
+            }
+        },
+        {
+            "id": "133",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Lesotho",
+                "iso3": "LSO",
+                "iso2": "LS",
+                "currency-code": "ZAR",
+                "currency-symbol": "R",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}$"
+            }
+        },
+        {
+            "id": "128",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Liberia",
+                "iso3": "LBR",
+                "iso2": "LR",
+                "currency-code": "LRD",
+                "currency-symbol": "$",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "129",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Libyan Arab Jamahiriya",
+                "iso3": "LBY",
+                "iso2": "LY",
+                "currency-code": "LYD",
+                "currency-symbol": "ل.د",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "131",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Liechtenstein",
+                "iso3": "LIE",
+                "iso2": "LI",
+                "currency-code": "CHF",
+                "currency-symbol": "Fr",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^(948[5-9])|(949[0-7])$"
+            }
+        },
+        {
+            "id": "134",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Lithuania",
+                "iso3": "LTU",
+                "iso2": "LT",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "135",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Luxembourg",
+                "iso3": "LUX",
+                "iso2": "LU",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^((L\\-\\d{4})|(\\d{4}))$"
+            }
+        },
+        {
+            "id": "137",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Macau",
+                "iso3": "MAC",
+                "iso2": "MO",
+                "currency-code": "MOP",
+                "currency-symbol": "P",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "146",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Macedonia, The Former Yugoslav Republic of",
+                "iso3": "MKD",
+                "iso2": "MK",
+                "currency-code": "MKD",
+                "currency-symbol": "ден",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "142",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Madagascar",
+                "iso3": "MDG",
+                "iso2": "MG",
+                "currency-code": "MGA",
+                "currency-symbol": "Ar",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}$"
+            }
+        },
+        {
+            "id": "158",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Malawi",
+                "iso3": "MWI",
+                "iso2": "MW",
+                "currency-code": "MWK",
+                "currency-symbol": "MK",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "159",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Malaysia",
+                "iso3": "MYS",
+                "iso2": "MY",
+                "currency-code": "MYR",
+                "currency-symbol": "RM",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "143",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Maldives",
+                "iso3": "MDV",
+                "iso2": "MV",
+                "currency-code": "MVR",
+                "currency-symbol": ".ރ",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "147",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Mali",
+                "iso3": "MLI",
+                "iso2": "ML",
+                "currency-code": "XOF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "148",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Malta",
+                "iso3": "MLT",
+                "iso2": "MT",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^[A-Z]{3}[ ]?\\d{2,4}$"
+            }
+        },
+        {
+            "id": "145",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Marshall Islands",
+                "iso3": "MHL",
+                "iso2": "MH",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^969[67]\\d([ \\-]\\d{4})?$"
+            }
+        },
+        {
+            "id": "156",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Martinique",
+                "iso3": "MTQ",
+                "iso2": "MQ",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^9[78]2\\d{2}$"
+            }
+        },
+        {
+            "id": "154",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Mauritania",
+                "iso3": "MRT",
+                "iso2": "MR",
+                "currency-code": "MRO",
+                "currency-symbol": "UM",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "157",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Mauritius",
+                "iso3": "MUS",
+                "iso2": "MU",
+                "currency-code": "MUR",
+                "currency-symbol": "₨",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": "^(\\d{3}[A-Z]{2}\\d{3})?$"
+            }
+        },
+        {
+            "id": "160",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Mayotte",
+                "iso3": "MYT",
+                "iso2": "YT",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^976\\d{2}$"
+            }
+        },
+        {
+            "id": "144",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Mexico",
+                "iso3": "MEX",
+                "iso2": "MX",
+                "currency-code": "MXN",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "80",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Micronesia, Federated States of",
+                "iso3": "FSM",
+                "iso2": "FM",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^(9694[1-4])([ \\-]\\d{4})?$"
+            }
+        },
+        {
+            "id": "141",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Moldova, Republic of",
+                "iso3": "MDA",
+                "iso2": "MD",
+                "currency-code": "MDL",
+                "currency-symbol": "L",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "140",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Monaco",
+                "iso3": "MCO",
+                "iso2": "MC",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^980\\d{2}$"
+            }
+        },
+        {
+            "id": "151",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Mongolia",
+                "iso3": "MNG",
+                "iso2": "MN",
+                "currency-code": "MNT",
+                "currency-symbol": "₮",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "150",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Montenegro",
+                "iso3": "MNE",
+                "iso2": "ME",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^8\\d{4}$"
+            }
+        },
+        {
+            "id": "155",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Montserrat",
+                "iso3": "MSR",
+                "iso2": "MS",
+                "currency-code": "XCD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "139",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Morocco",
+                "iso3": "MAR",
+                "iso2": "MA",
+                "currency-code": "MAD",
+                "currency-symbol": "د.م.",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "153",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Mozambique",
+                "iso3": "MOZ",
+                "iso2": "MZ",
+                "currency-code": "MZN",
+                "currency-symbol": "MT",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "149",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Myanmar",
+                "iso3": "MMR",
+                "iso2": "MM",
+                "currency-code": "MMK",
+                "currency-symbol": "Ks",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "161",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Namibia",
+                "iso3": "NAM",
+                "iso2": "NA",
+                "currency-code": "ZAR",
+                "currency-symbol": "R",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "171",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Nauru",
+                "iso3": "NRU",
+                "iso2": "NR",
+                "currency-code": "AUD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "170",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Nepal",
+                "iso3": "NPL",
+                "iso2": "NP",
+                "currency-code": "NPR",
+                "currency-symbol": "₨",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "168",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Netherlands",
+                "iso3": "NLD",
+                "iso2": "NL",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}[ ]?[A-Z]{2}$"
+            }
+        },
+        {
+            "id": "162",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "New Caledonia",
+                "iso3": "NCL",
+                "iso2": "NC",
+                "currency-code": "XPF",
+                "currency-symbol": "Fr",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^988\\d{2}$"
+            }
+        },
+        {
+            "id": "172",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "New Zealand",
+                "iso3": "NZL",
+                "iso2": "NZ",
+                "currency-code": "NZD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "166",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Nicaragua",
+                "iso3": "NIC",
+                "iso2": "NI",
+                "currency-code": "NIO",
+                "currency-symbol": "C$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^((\\d{4}-)?\\d{3}-\\d{3}(-\\d{1})?)?$"
+            }
+        },
+        {
+            "id": "163",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Niger",
+                "iso3": "NER",
+                "iso2": "NE",
+                "currency-code": "XOF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "165",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Nigeria",
+                "iso3": "NGA",
+                "iso2": "NG",
+                "currency-code": "NGN",
+                "currency-symbol": "₦",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^(\\d{6})?$"
+            }
+        },
+        {
+            "id": "167",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Niue",
+                "iso3": "NIU",
+                "iso2": "NU",
+                "currency-code": "NZD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "164",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Norfolk Island",
+                "iso3": "NFK",
+                "iso2": "NF",
+                "currency-code": "AUD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^2899$"
+            }
+        },
+        {
+            "id": "152",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Northern Mariana Islands",
+                "iso3": "MNP",
+                "iso2": "MP",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^9695[012]([ \\-]\\d{4})?$"
+            }
+        },
+        {
+            "id": "169",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Norway",
+                "iso3": "NOR",
+                "iso2": "NO",
+                "currency-code": "NOK",
+                "currency-symbol": "kr",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "173",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Oman",
+                "iso3": "OMN",
+                "iso2": "OM",
+                "currency-code": "OMR",
+                "currency-symbol": "ر.ع.",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^(PC )?\\d{3}$"
+            }
+        },
+        {
+            "id": "174",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Pakistan",
+                "iso3": "PAK",
+                "iso2": "PK",
+                "currency-code": "PKR",
+                "currency-symbol": "₨",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "179",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Palau",
+                "iso3": "PLW",
+                "iso2": "PW",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^96940$"
+            }
+        },
+        {
+            "id": "186",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Palestinian Territory",
+                "iso3": "PSE",
+                "iso2": "PS",
+                "currency-code": null,
+                "currency-symbol": null,
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "175",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Panama",
+                "iso3": "PAN",
+                "iso2": "PA",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "180",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Papua New Guinea",
+                "iso3": "PNG",
+                "iso2": "PG",
+                "currency-code": "PGK",
+                "currency-symbol": "K",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}$"
+            }
+        },
+        {
+            "id": "185",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Paraguay",
+                "iso3": "PRY",
+                "iso2": "PY",
+                "currency-code": "PYG",
+                "currency-symbol": "₲",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "177",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Peru",
+                "iso3": "PER",
+                "iso2": "PE",
+                "currency-code": "PEN",
+                "currency-symbol": "S/.",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "178",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Philippines",
+                "iso3": "PHL",
+                "iso2": "PH",
+                "currency-code": "PHP",
+                "currency-symbol": "₱",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "176",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Pitcairn",
+                "iso3": "PCN",
+                "iso2": "PN",
+                "currency-code": "NZD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^PCRN 1ZZ$"
+            }
+        },
+        {
+            "id": "181",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Poland",
+                "iso3": "POL",
+                "iso2": "PL",
+                "currency-code": "PLN",
+                "currency-symbol": "zł",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{2}-\\d{3}$"
+            }
+        },
+        {
+            "id": "184",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Portugal",
+                "iso3": "PRT",
+                "iso2": "PT",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}([\\-]\\d{3})?$"
+            }
+        },
+        {
+            "id": "182",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Puerto Rico",
+                "iso3": "PRI",
+                "iso2": "PR",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^00[679]\\d{2}([ \\-]\\d{4})?$"
+            }
+        },
+        {
+            "id": "188",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Qatar",
+                "iso3": "QAT",
+                "iso2": "QA",
+                "currency-code": "QAR",
+                "currency-symbol": "ر.ق",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "189",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Réunion",
+                "iso3": "REU",
+                "iso2": "RE",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^9[78]4\\d{2}$"
+            }
+        },
+        {
+            "id": "190",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Romania",
+                "iso3": "ROU",
+                "iso2": "RO",
+                "currency-code": "RON",
+                "currency-symbol": "lei",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "191",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Russian Federation",
+                "iso3": "RUS",
+                "iso2": "RU",
+                "currency-code": "RUB",
+                "currency-symbol": "₽",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "192",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Rwanda",
+                "iso3": "RWA",
+                "iso2": "RW",
+                "currency-code": "RWF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "32",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Saint Barthélemy",
+                "iso3": "BLM",
+                "iso2": "BL",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "199",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Saint Helena",
+                "iso3": "SHN",
+                "iso2": "SH",
+                "currency-code": "SHP",
+                "currency-symbol": "£",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^(ASCN|STHL) 1ZZ$"
+            }
+        },
+        {
+            "id": "123",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Saint Kitts and Nevis",
+                "iso3": "KNA",
+                "iso2": "KN",
+                "currency-code": "XCD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "130",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Saint Lucia",
+                "iso3": "LCA",
+                "iso2": "LC",
+                "currency-code": "XCD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "138",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Saint Martin",
+                "iso3": "MAF",
+                "iso2": "MF",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "207",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Saint Pierre and Miquelon",
+                "iso3": "SPM",
+                "iso2": "PM",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^9[78]5\\d{2}$"
+            }
+        },
+        {
+            "id": "238",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Saint Vincent and the Grenadines",
+                "iso3": "VCT",
+                "iso2": "VC",
+                "currency-code": "XCD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "245",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Samoa",
+                "iso3": "WSM",
+                "iso2": "WS",
+                "currency-code": "WST",
+                "currency-symbol": "T",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "205",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "San Marino",
+                "iso3": "SMR",
+                "iso2": "SM",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^4789\\d$"
+            }
+        },
+        {
+            "id": "209",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Sao Tome and Principe",
+                "iso3": "STP",
+                "iso2": "ST",
+                "currency-code": "STD",
+                "currency-symbol": "Db",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "193",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Saudi Arabia",
+                "iso3": "SAU",
+                "iso2": "SA",
+                "currency-code": "SAR",
+                "currency-symbol": "ر.س",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "195",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Senegal",
+                "iso3": "SEN",
+                "iso2": "SN",
+                "currency-code": "XOF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "208",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Serbia",
+                "iso3": "SRB",
+                "iso2": "RS",
+                "currency-code": "RSD",
+                "currency-symbol": "дин.",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5,6}$"
+            }
+        },
+        {
+            "id": "215",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Seychelles",
+                "iso3": "SYC",
+                "iso2": "SC",
+                "currency-code": "SCR",
+                "currency-symbol": "₨",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "203",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Sierra Leone",
+                "iso3": "SLE",
+                "iso2": "SL",
+                "currency-code": "SLL",
+                "currency-symbol": "Le",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "196",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Singapore",
+                "iso3": "SGP",
+                "iso2": "SG",
+                "currency-code": "SGD",
+                "currency-symbol": "$",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "200",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Sint Maarten",
+                "iso3": "SXM",
+                "iso2": "SX",
+                "currency-code": "ANG",
+                "currency-symbol": "ƒ",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "211",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Slovakia",
+                "iso3": "SVK",
+                "iso2": "SK",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}[ ]?\\d{2}$"
+            }
+        },
+        {
+            "id": "212",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Slovenia",
+                "iso3": "SVN",
+                "iso2": "SI",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "202",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Solomon Islands",
+                "iso3": "SLB",
+                "iso2": "SB",
+                "currency-code": "SBD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "206",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Somalia",
+                "iso3": "SOM",
+                "iso2": "SO",
+                "currency-code": "SOS",
+                "currency-symbol": "Sh",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "247",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "South Africa",
+                "iso3": "ZAF",
+                "iso2": "ZA",
+                "currency-code": "ZAR",
+                "currency-symbol": "R",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "197",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "South Georgia and the South Sandwich Islands",
+                "iso3": "SGS",
+                "iso2": "GS",
+                "currency-code": null,
+                "currency-symbol": null,
+                "continent": "Antarctica",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^SIQQ 1ZZ$"
+            }
+        },
+        {
+            "id": "198",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "South Sudan",
+                "iso3": "SSD",
+                "iso2": "SS",
+                "currency-code": "SSP",
+                "currency-symbol": "£",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "73",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Spain",
+                "iso3": "ESP",
+                "iso2": "ES",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "132",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Sri Lanka",
+                "iso3": "LKA",
+                "iso2": "LK",
+                "currency-code": "LKR",
+                "currency-symbol": "Rs",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "194",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Sudan",
+                "iso3": "SDN",
+                "iso2": "SD",
+                "currency-code": "SDG",
+                "currency-symbol": "£",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "210",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Suriname",
+                "iso3": "SUR",
+                "iso2": "SR",
+                "currency-code": "SRD",
+                "currency-symbol": "$",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "201",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Svalbard and Jan Mayen",
+                "iso3": "SJM",
+                "iso2": "SJ",
+                "currency-code": "NOK",
+                "currency-symbol": "kr",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "214",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Swaziland",
+                "iso3": "SWZ",
+                "iso2": "SZ",
+                "currency-code": "SZL",
+                "currency-symbol": "L",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^[HLMS]\\d{3}$"
+            }
+        },
+        {
+            "id": "213",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Sweden",
+                "iso3": "SWE",
+                "iso2": "SE",
+                "currency-code": "SEK",
+                "currency-symbol": "kr",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{3}[ ]?\\d{2}$"
+            }
+        },
+        {
+            "id": "46",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Switzerland",
+                "iso3": "CHE",
+                "iso2": "CH",
+                "currency-code": "CHF",
+                "currency-symbol": "Fr",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "216",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Syrian Arab Republic",
+                "iso3": "SYR",
+                "iso2": "SY",
+                "currency-code": "SYP",
+                "currency-symbol": "£",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "230",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Taiwan",
+                "iso3": "TWN",
+                "iso2": "TW",
+                "currency-code": "TWD",
+                "currency-symbol": "$",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^\\d{3}(\\d{2})?$"
+            }
+        },
+        {
+            "id": "221",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Tajikistan",
+                "iso3": "TJK",
+                "iso2": "TJ",
+                "currency-code": "TJS",
+                "currency-symbol": "ЅМ",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "231",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Tanzania, United Republic of",
+                "iso3": "TZA",
+                "iso2": "TZ",
+                "currency-code": "TZS",
+                "currency-symbol": "Sh",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "220",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Thailand",
+                "iso3": "THA",
+                "iso2": "TH",
+                "currency-code": "THB",
+                "currency-symbol": "฿",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "224",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Timor-Leste",
+                "iso3": "TLS",
+                "iso2": "TL",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "219",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Togo",
+                "iso3": "TGO",
+                "iso2": "TG",
+                "currency-code": "XOF",
+                "currency-symbol": "Fr",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "222",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Tokelau",
+                "iso3": "TKL",
+                "iso2": "TK",
+                "currency-code": "NZD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "225",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Tonga",
+                "iso3": "TON",
+                "iso2": "TO",
+                "currency-code": "TOP",
+                "currency-symbol": "T$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "226",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Trinidad and Tobago",
+                "iso3": "TTO",
+                "iso2": "TT",
+                "currency-code": "TTD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "227",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Tunisia",
+                "iso3": "TUN",
+                "iso2": "TN",
+                "currency-code": "TND",
+                "currency-symbol": "د.ت",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "228",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Turkey",
+                "iso3": "TUR",
+                "iso2": "TR",
+                "currency-code": "TRY",
+                "currency-symbol": null,
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "223",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Turkmenistan",
+                "iso3": "TKM",
+                "iso2": "TM",
+                "currency-code": "TMT",
+                "currency-symbol": "m",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "217",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Turks and Caicos Islands",
+                "iso3": "TCA",
+                "iso2": "TC",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^TKCA 1ZZ$"
+            }
+        },
+        {
+            "id": "229",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Tuvalu",
+                "iso3": "TUV",
+                "iso2": "TV",
+                "currency-code": "AUD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "232",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Uganda",
+                "iso3": "UGA",
+                "iso2": "UG",
+                "currency-code": "UGX",
+                "currency-symbol": "Sh",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "233",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Ukraine",
+                "iso3": "UKR",
+                "iso2": "UA",
+                "currency-code": "UAH",
+                "currency-symbol": "₴",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "14",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "United Arab Emirates",
+                "iso3": "ARE",
+                "iso2": "AE",
+                "currency-code": "AED",
+                "currency-symbol": "د.إ",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "234",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "United States Minor Outlying Islands",
+                "iso3": "UMI",
+                "iso2": "UM",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "235",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Uruguay",
+                "iso3": "URY",
+                "iso2": "UY",
+                "currency-code": "UYU",
+                "currency-symbol": "$",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "236",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Uzbekistan",
+                "iso3": "UZB",
+                "iso2": "UZ",
+                "currency-code": "UZS",
+                "currency-symbol": "лв",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{6}$"
+            }
+        },
+        {
+            "id": "243",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Vanuatu",
+                "iso3": "VUT",
+                "iso2": "VU",
+                "currency-code": "VUV",
+                "currency-symbol": "Vt",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "239",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Venezuela",
+                "iso3": "VEN",
+                "iso2": "VE",
+                "currency-code": "VEF",
+                "currency-symbol": "Bs F",
+                "continent": "South America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "242",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Vietnam",
+                "iso3": "VNM",
+                "iso2": "VN",
+                "currency-code": "VND",
+                "currency-symbol": "₫",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "240",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Virgin Islands, British",
+                "iso3": "VGB",
+                "iso2": "VG",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "241",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Virgin Islands, U.S.",
+                "iso3": "VIR",
+                "iso2": "VI",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^008(([0-4]\\d)|(5[01]))([ \\-]\\d{4})?$"
+            }
+        },
+        {
+            "id": "244",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Wallis and Futuna",
+                "iso3": "WLF",
+                "iso2": "WF",
+                "currency-code": "XPF",
+                "currency-symbol": "Fr",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": "^986\\d{2}$"
+            }
+        },
+        {
+            "id": "72",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Western Sahara",
+                "iso3": "ESH",
+                "iso2": "EH",
+                "currency-code": "MAD",
+                "currency-symbol": "د.م.",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "246",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Yemen",
+                "iso3": "YEM",
+                "iso2": "YE",
+                "currency-code": "YER",
+                "currency-symbol": "﷼",
+                "continent": "Asia",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "248",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Zambia",
+                "iso3": "ZMB",
+                "iso2": "ZM",
+                "currency-code": "ZMW",
+                "currency-symbol": "ZK",
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "249",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 100,
+                "name": "Zimbabwe",
+                "iso3": "ZWE",
+                "iso2": "ZW",
+                "currency-code": "ZWL",
+                "currency-symbol": null,
+                "continent": "Africa",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": false,
+                "postal-code-format": null
+            }
+        },
+        {
+            "id": "6",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 6,
+                "name": "France",
+                "iso3": "FRA",
+                "iso2": "FR",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{2}[ ]?\\d{3}$"
+            }
+        },
+        {
+            "id": "5",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 5,
+                "name": "Germany",
+                "iso3": "DEU",
+                "iso2": "DE",
+                "currency-code": "EUR",
+                "currency-symbol": "€",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}$"
+            }
+        },
+        {
+            "id": "4",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 4,
+                "name": "Australia",
+                "iso3": "AUS",
+                "iso2": "AU",
+                "currency-code": "AUD",
+                "currency-symbol": "$",
+                "continent": "Oceania",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{4}$"
+            }
+        },
+        {
+            "id": "3",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 3,
+                "name": "United Kingdom",
+                "iso3": "GBR",
+                "iso2": "GB",
+                "currency-code": "GBP",
+                "currency-symbol": "£",
+                "continent": "Europe",
+                "street-required": true,
+                "city-required": true,
+                "state-required": false,
+                "postal-code-required": true,
+                "postal-code-format": "^GIR[ ]?0AA|((AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}))|BFPO[ ]?\\d{1,4}$"
+            }
+        },
+        {
+            "id": "2",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 2,
+                "name": "Canada",
+                "iso3": "CAN",
+                "iso2": "CA",
+                "currency-code": "CAD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z][ ]?\\d[ABCEGHJ-NPRSTV-Z]\\d$"
+            }
+        },
+        {
+            "id": "1",
+            "type": "countries",
+            "attributes": {
+                "sort-order": 1,
+                "name": "United States",
+                "iso3": "USA",
+                "iso2": "US",
+                "currency-code": "USD",
+                "currency-symbol": "$",
+                "continent": "North America",
+                "street-required": true,
+                "city-required": true,
+                "state-required": true,
+                "postal-code-required": true,
+                "postal-code-format": "^\\d{5}([ \\-]\\d{4})?$"
+            }
+        }
+    ],
+    "meta": {
+        "record-count": 250
+    },
+    "links": {
+        "first": "https://api.crowdox.com/api/v2/countries?page%5Bnumber%5D=1&page%5Bsize%5D=250",
+        "last": "https://api.crowdox.com/api/v2/countries?page%5Bnumber%5D=1&page%5Bsize%5D=250"
+    }
+}

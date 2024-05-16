@@ -1,0 +1,37 @@
+[
+    {
+        "Skus → Sku": "KIT-ECO-NAR-349-S",
+        "Recieved Date": "2022-08-10T01:00:15",
+        "Return Reason": "refund"
+    },
+    {
+        "Skus → Sku": "KIT-PRO-NAR-349-S",
+        "Recieved Date": "2022-08-10T02:00:15",
+        "Return Reason": "refund"
+    },
+    {
+        "Skus → Sku": "KIT-ECO-REG-559-S",
+        "Recieved Date": "2022-08-10T03:00:15",
+        "Return Reason": "refund"
+    },
+    {
+        "Skus → Sku": "PAC-ECO-REG-622",
+        "Recieved Date": "2022-08-10T04:00:15",
+        "Return Reason": "refund"
+    },
+    {
+        "Skus → Sku": "NAR-349-B",
+        "Recieved Date": "2022-08-10T05:00:15",
+        "Return Reason": "refund"
+    },
+    {
+        "Skus → Sku": "KIT-PRO-REG-622-S",
+        "Recieved Date": "2022-08-10T06:00:15",
+        "Return Reason": "refund"
+    },
+    {
+        "Skus → Sku": "PAC-PRO-REG-559",
+        "Recieved Date": "2022-08-10T07:00:15",
+        "Return Reason": "refund"
+    }
+]

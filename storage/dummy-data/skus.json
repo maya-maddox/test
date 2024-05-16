@@ -1,0 +1,770 @@
+[
+    {
+        "Sku Types → Type": null,
+        "Sku": "Select value"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CHARGER-2A-UK"
+    },
+    {
+        "Sku Types → Type": "HBB",
+        "Sku": "MALE-BRACKET-V6"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-622-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-559-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-622-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-NAR-349-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-349-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-622-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-559-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-584-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-559-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CHARGER-2A-US"
+    },
+    {
+        "Sku Types → Type": "PAS",
+        "Sku": "PAS-EZF"
+    },
+    {
+        "Sku Types → Type": "Charger",
+        "Sku": "CHARGER-2A"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-349-B"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-REG-584"
+    },
+    {
+        "Sku Types → Type": "PAS",
+        "Sku": "PAS-UNI-DISK"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-622-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-584-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-406-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "PEDAL-SENSOR-TYPE-A"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-REG-559"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-ECO-REG-622"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-REG-622"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-451-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-406-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-559-B"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-NAR-349"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-406-B"
+    },
+    {
+        "Sku Types → Type": "HBB",
+        "Sku": "MALE-BRACKET-V7"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-507-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-NAR-406-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "100SX-6XX-36H-S"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "BRO-BLOCK"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "CHARGER-3A"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CHARGER-2A-EU"
+    },
+    {
+        "Sku Types → Type": "Plug",
+        "Sku": "PLUG-UK"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "PLUG-UK+EU"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "PLUG-EU"
+    },
+    {
+        "Sku Types → Type": "Plug",
+        "Sku": "PLUG-US"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "HYDR"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "INLI"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "PAC-ECO-REG"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "PAC-ECO-NAR"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "PAC-PRO-REG"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "PAC-PRO-NAR"
+    },
+    {
+        "Sku Types → Type": "PAS",
+        "Sku": "PAS-UNI"
+    },
+    {
+        "Sku Types → Type": "PAS",
+        "Sku": "PAS-BRO"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "PAS-BRO-DISK"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "PAS-V12"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "BRO-TORQ-WASHERS"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "DAHON-FORK-WASHER"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "UNI-TORQ-WASHERS"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "UNI-TORQ-WASHER"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "UNI-C-WASHERS"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "REG-AXL-WASHER"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "BRO-TORQ-LONG"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "HALF-NUT-SET"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CONTROLLER-PRO-V2.3"
+    },
+    {
+        "Sku Types → Type": "Controller",
+        "Sku": "CONTROLLER-PRO"
+    },
+    {
+        "Sku Types → Type": "Controller",
+        "Sku": "CONTROLLER-ECO"
+    },
+    {
+        "Sku Types → Type": "Controller",
+        "Sku": "CONTROLLER-OLD"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "HBB-SPACER-SET-THIN"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "PEDAL-SENSOR"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "EXT-MOTOR-CABLE"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "EXT-PEDAL-CABLE"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "EXT-BRAKE-CABLE"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-BAG"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-349-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "REG-349-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-406-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-406-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-507-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-507-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-584-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-584-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-590-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-590-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "EXT-THROTTLE-CABLE\r"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "NAR-305-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "NAR-305-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "NAR-349-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "NAR-349-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "NAR-406-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "NAR-406-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-451-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-451-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-559-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-559-S"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-622-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-622-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "REG-630-B"
+    },
+    {
+        "Sku Types → Type": "Wheel",
+        "Sku": "REG-630-S"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "THRO-TWIST"
+    },
+    {
+        "Sku Types → Type": "Accesory",
+        "Sku": "THRO-THUMB"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": " KIT-ECO-NAR-349-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": " KIT-PRO-NAR-349-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": " KIT-ECO-NAR-349-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": " KIT-PRO-NAR-349-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-406-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-406-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-584-S"
+    },
+    {
+        "Sku Types → Type": "PAS",
+        "Sku": "PAS-DAH"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-590-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-590-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-590-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-590-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "BROMPTON-PEDAL-SENSOR-TYPE-A-2013-ONWARDS"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "BROMPTON-PEDAL-SENSOR-TYPE-B-PRE-2013"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CHARGER-2A-AU"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CHARGER-3A-AU"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CHARGER-3A-EU"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CHARGER-3A-UK"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "CHARGER-3A-US"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-NAR-305-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-NAR-305-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-NAR-349-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-NAR-406-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-NAR-451-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-NAR-507-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-305-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-349-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-349-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-355-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-355-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-406-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-451-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-451-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-457-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-507-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-507-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-584-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-630-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-630-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-HUBONLY-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-ECO-REG-HUBONLY-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-305-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-305-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-451-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-451-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-507-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-507-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-NAR-HUBONLY-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-305-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-349-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-349-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-355-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-355-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-451-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-457-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-507-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-520-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-630-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-630-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-HUBONLY-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-PRO-REG-HUBONLY-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-NAR-349-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-NAR-349-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-NAR-406-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-NAR-451-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-406-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-406-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-451-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-559-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-559-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-584-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-584-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-590-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-622-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-622-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "KIT-TOR-REG-630-S"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-ECO-NAR-349"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-NAR-406"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-NAR-451"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-REG-349"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-REG-406"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-REG-451"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-REG-507"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-PRO-REG-630"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-TOR-NAR-349"
+    },
+    {
+        "Sku Types → Type": "Powerpack",
+        "Sku": "PAC-TOR-REG-622"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "PEDAL-SENSOR-TYPE-B"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "REAR-LIGHT"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "STICKER-PACK"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "SWYTCH-T-SHIRT-L"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "SWYTCH-T-SHIRT-M"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "SWYTCH-T-SHIRT-S"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "SWYTCH-T-SHIRT-XL"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "TOOLBOX-PREM"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "TORQ-NARROW"
+    },
+    {
+        "Sku Types → Type": null,
+        "Sku": "TORQ-UNIVERSAL"
+    }
+]

@@ -1,0 +1,32 @@
+//
+
+@import url(https://use.fontawesome.com/releases/v5.0.10/css/all.css);
+
+@import "bootstrap";
+
+.data-view-image,
+.data-view-video {
+  max-width: 400px;
+
+  video {
+    /* override other styles to make responsive */
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+
+.opacity-0 {
+  opacity:0!important;
+}
+.opacity-25 {
+  opacity:0.25!important;
+}
+.opacity-50 {
+  opacity:0.5!important;
+}
+.opacity-75 {
+  opacity:0.75!important;
+}
+.opacity-100 {
+  opacity:.1!important;
+}
