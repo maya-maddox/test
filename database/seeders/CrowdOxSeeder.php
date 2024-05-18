@@ -120,7 +120,7 @@ class CrowdOxSeeder extends Seeder
         $orders = [];
         foreach($projects as $project) {
             foreach ($customers->shuffle()->take(20) as $customer) {
-                $orders[$project->id] = CrowdOxOrder::factory()
+                $orders[$project->id][] = CrowdOxOrder::factory()
                     ->state(["crowd_ox_project_id" => $project,
                              "crowd_ox_customer_id" => $customer])
                     ->create();
