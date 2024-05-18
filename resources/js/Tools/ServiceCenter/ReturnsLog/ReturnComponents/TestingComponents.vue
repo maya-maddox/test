@@ -83,6 +83,7 @@ import TestComponentTable from './TestingComponents/TestComponentTable.vue';
           "sku_id": skuId
         })
           .then(() => {
+            this.suggestedSkus = this.suggestedSkus.filter(sku => sku.id !== skuId); // Remove the selected suggestion
             this.refreshReturnItems();
         });
       },
