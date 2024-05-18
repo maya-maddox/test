@@ -20,9 +20,9 @@
 </div>
 
 @include('components.data-table', [
-    "headers" => ["Crowdox ID", "Project", "Order", "Product Bundle"],
+    "headers" => ["Crowdox ID", "Type", "Product Price (Cents)", "Shipping Price (Cents)", "Total Price (Cents)", "Project", "Order", "Product Bundle"],
     "data" => $crowdox_order_lines,
-    "keys" => ["crowd_ox_id", "crowd_ox_project_id", "crowd_ox_order_id", "crowd_ox_product_id"],
+    "keys" => ["crowd_ox_id", "type", "product_price_cents", "shipping_price_cents", "total_price_cents", "crowd_ox_project_id", "crowd_ox_order_id", "crowd_ox_product_id"],
     "routes" => ["route" => "stores.crowdox.orderlines"],
     "name" => "CrowdOx Order Lines"
 ])

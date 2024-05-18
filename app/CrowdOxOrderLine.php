@@ -15,7 +15,15 @@ class CrowdOxOrderLine extends Model
      * @var array
      */
     protected $fillable = [
-        'crowd_ox_id', 'type', 'crowd_ox_project_id', 'crowd_ox_order_id', 'crowd_ox_product_id', 'raw_data'
+        'crowd_ox_id', 
+        'type', 
+        'product_price_cents', 
+        'shipping_price_cents', 
+        'total_price_cents', 
+        'crowd_ox_project_id', 
+        'crowd_ox_order_id', 
+        'crowd_ox_product_id', 
+        'raw_data'
     ];
 
     public function crowdOxProject() {
