@@ -6,7 +6,7 @@
         <div class="card-body alert-secondary text-center row pb-1">
             <h3>Suggested SKUs</h3>
             <div class="mb-2" role="group">
-              <button v-for="sku in suggestedSkus" :key="sku-id" @click="addComponent(sku.id);" class="mt-2 btn btn-primary m-2">Add {{ sku.sku }}</button>
+              <button v-for="sku in suggestedSkus" :key="sku.id" @click="addComponent(sku.id);" class="mt-2 btn btn-primary m-2">Add {{ sku.sku }}</button>
             </div>
         </div>
     </div>
