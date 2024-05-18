@@ -27,6 +27,17 @@ class ReturnsLogController
 
     public function suggestedSkus(ServiceCenter $service_center, Returns $return)
     {
-        return Sku::withCount('returnItems')->orderByDesc('return_items_count')->limit(5)->get();
+        $return_sku = $return->sku_name;
+        $all_skus = Sku::all();
+
+        $suggested_skus = [];
+
+        foreach ($all_skus as $sku) {
+            if (strpos($return_sku, $sku->sku) || $return_sku === $sku->sku) {
+                $suggested_skus[] = $sku;
+            }
+        }
+
+        return $suggested_skus;
     }
 }
