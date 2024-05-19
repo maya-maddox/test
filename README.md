@@ -287,10 +287,32 @@ Congratulations! At Swytch one of our core values is constantly improving our pr
 
 - If your first job was to improve this codebase as it currently is, what would you do?
 
+I would fix a fatal bug with the Crowd Ox seeder (which I did [here](https://github.com/maya-maddox/test/commit/135a71aa00e21d5bc419d4b6921feec8963930a9)).
+
+I would use template literals, instead of concatenating with `+` which can be difficult to read.
+
+I would look for opportunities to replace `with()` with the more concise `compact()` when passing data to a view.
+
+I would consider having multiple route files, instead of categorising them in a [single file](https://github.com/maya-maddox/test/blob/main/routes/web.php) with comments.
+
+When you try to delete a selected SKU whilst processing a return, I would fix the delete button shifting when it asks for confirmation.
+
 - If you had to re-create this codebase from scratch, what would you do differently?
+
+It's a solid codebase from what I can tell from my limited experience with it, but if I **had** to answer this:
+
+I would consider adding TypeScript for type safety, but there's an argument to be made that it's *another* thing to learn and could slow down development.
+
+I would consider adding a tool like [Laravel Telescope](https://laravel.com/docs/11.x/telescope) to help with debugging, I tried to install it whilst debugging the Crowd Ox seeder but ran into issues around package versions.
 
 - How did you find these tasks?
 
+Pretty fun, the second task was the hardest. I'm still not sure what an order line is, either!
+
 - Are there any areas of your programming you would have like to have been tested on but haven’t gotten to show yet?
 
+For this position, I think Vue could've played a bigger role.
+
 - Do you have any other projects you'd like to share with us to showcase your technical skills?
+
+Unfortunately not.
